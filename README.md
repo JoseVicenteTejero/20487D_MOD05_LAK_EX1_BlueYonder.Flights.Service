@@ -17,7 +17,7 @@ RESUMEN
 
  
 
-**![img](file:///C:/Users/josev/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png)**
+**![img](clip_image002.png)**
 
 #### Task 2: Install the Microsoft.AspNetCore.Hosting.WindowsServices NuGet package
 
@@ -427,7 +427,6 @@ Publicando:
 
  
 
- 
  
 
 PROBLEMAS
