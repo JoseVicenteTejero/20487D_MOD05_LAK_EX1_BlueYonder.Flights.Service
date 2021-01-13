@@ -53,7 +53,7 @@ Task 3: Modify the Main method to use Kestrel RunAsService hosting
 
  
 
-![img](C:\20487D\AllFiles\Mod05\Labfiles\clip_image014.png)
+![img](clip_image014.png)
 
 ![img](file:///C:/Users/josev/AppData/Local/Temp/msohtmlclip1/01/clip_image016.png)
 
@@ -155,7 +155,7 @@ blueyonder-flights-jvtc
 
 **MyFlightAppService** 
 
-![img](C:\20487D\AllFiles\Mod05\Labfiles\clip_image037.png)
+![img](clip_image037.png)
 
  
 
@@ -165,9 +165,9 @@ blueyonder-flights-jvtc
 
  
 
-![img](C:\20487D\AllFiles\Mod05\Labfiles\clip_image041.png)
+![img](clip_image041.png)
 
-![img](C:\20487D\AllFiles\Mod05\Labfiles\clip_image043.png)
+![img](clip_image043.png)
 
 #### Task 2: Test and verify the web app uses the database and environment variable
 
@@ -175,7 +175,7 @@ blueyonder-flights-jvtc
 
  
 
-![img](C:\20487D\AllFiles\Mod05\Labfiles\clip_image045.png)
+![img](clip_image045.png)
 
  
 
@@ -189,11 +189,11 @@ blueyonder-flights-jvtc
 
  
 
-![img](C:\20487D\AllFiles\Mod05\Labfiles\clip_image046.png)
+![img](clip_image046.png)
 
  
 
-![img](C:\20487D\AllFiles\Mod05\Labfiles\clip_image047.png)
+![img](clip_image047.png)
 
  
 
@@ -361,7 +361,7 @@ Task 1: Create a new Function App project in Visual Studio
 
  
 
-![img](C:\20487D\AllFiles\Mod05\Labfiles\clip_image085.png)
+![img](clip_image085.png)
 
  
 
@@ -369,17 +369,17 @@ Task 1: Create a new Function App project in Visual Studio
 
  
 
-![img](C:\20487D\AllFiles\Mod05\Labfiles\clip_image087.png)
+![img](clip_image087.png)
 
  
 
  
 
-![img](C:\20487D\AllFiles\Mod05\Labfiles\clip_image089.png)
+![img](clip_image089.png)
 
  
 
-![img](C:\20487D\AllFiles\Mod05\Labfiles\clip_image091.png)
+![img](clip_image091.png)
 
  
 
@@ -393,21 +393,21 @@ Task 1: Create a new Function App project in Visual Studio
 
  
 
-![img](C:\20487D\AllFiles\Mod05\Labfiles\clip_image093.png)
+![img](clip_image093.png)
 
  
 
-![img](C:\20487D\AllFiles\Mod05\Labfiles\clip_image095.png)
+![img](clip_image095.png)
 
  
 
-![img](C:\20487D\AllFiles\Mod05\Labfiles\clip_image096.png)
+![img](clip_image096.png)
 
  
 
 Publicando:
 
-![img](C:\20487D\AllFiles\Mod05\Labfiles\clip_image098.png)
+![img](clip_image098.png)
 
  
 
@@ -419,7 +419,7 @@ Publicando:
 
  
 
-![img](C:\20487D\AllFiles\Mod05\Labfiles\clip_image100.png)
+![img](clip_image100.png)
 
  
 
@@ -427,6 +427,7 @@ Publicando:
 
  
 
+ 
  
 
 PROBLEMAS
