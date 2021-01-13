@@ -21,9 +21,9 @@ RESUMEN
 
 #### Task 2: Install the Microsoft.AspNetCore.Hosting.WindowsServices NuGet package
 
-![img](file:///C:/Users/josev/AppData/Local/Temp/msohtmlclip1/01/clip_image004.png)
+![img](clip_image004.png)
 
-![img](file:///C:/Users/josev/AppData/Local/Temp/msohtmlclip1/01/clip_image006.png)
+![img](clip_image006.png)
 
 
 
@@ -31,7 +31,7 @@ RESUMEN
 
 Task 3: Modify the Main method to use Kestrel RunAsService hosting
 
-![img](file:///C:/Users/josev/AppData/Local/Temp/msohtmlclip1/01/clip_image008.png)
+![img](clip_image008.png)
 
  
 
@@ -41,11 +41,11 @@ Task 3: Modify the Main method to use Kestrel RunAsService hosting
 
 \#### Task 1: Register the Windows Service
 
-![img](file:///C:/Users/josev/AppData/Local/Temp/msohtmlclip1/01/clip_image010.png)
+![img](clip_image010.png)
 
  
 
-![img](file:///C:/Users/josev/AppData/Local/Temp/msohtmlclip1/01/clip_image012.png)
+![img](clip_image012.png)
 
  
 
@@ -55,9 +55,9 @@ Task 3: Modify the Main method to use Kestrel RunAsService hosting
 
 ![img](clip_image014.png)
 
-![img](file:///C:/Users/josev/AppData/Local/Temp/msohtmlclip1/01/clip_image016.png)
+![img](clip_image016.png)
 
-![img](file:///C:/Users/josev/AppData/Local/Temp/msohtmlclip1/01/clip_image018.png)
+![img](clip_image018.png)
 
  
 
@@ -75,13 +75,13 @@ Task 3: Modify the Main method to use Kestrel RunAsService hosting
 
  
 
-![img](file:///C:/Users/josev/AppData/Local/Temp/msohtmlclip1/01/clip_image020.png)
+![img](clip_image020.png)
 
  
 
-![img](file:///C:/Users/josev/AppData/Local/Temp/msohtmlclip1/01/clip_image021.png)
+![img](clip_image021.png)
 
-![img](file:///C:/Users/josev/AppData/Local/Temp/msohtmlclip1/01/clip_image022.png)
+![img](clip_image022.png)
 
 OutputsString      :
 
@@ -91,9 +91,9 @@ Server=tcp:blueyonder05-jvtc.database.windows.net,1433;Initial Catalog=BlueYonde
 
  
 
-![img](file:///C:/Users/josev/AppData/Local/Temp/msohtmlclip1/01/clip_image024.png)
+![img](clip_image024.png)
 
-![img](file:///C:/Users/josev/AppData/Local/Temp/msohtmlclip1/01/clip_image025.png)
+![img](clip_image025.png)
 
  
 
@@ -107,23 +107,23 @@ Server=tcp:blueyonder05-jvtc.database.windows.net,1433;Initial Catalog=BlueYonde
 
  
 
-![img](file:///C:/Users/josev/AppData/Local/Temp/msohtmlclip1/01/clip_image027.png)
+![img](clip_image027.png)
 
-![img](file:///C:/Users/josev/AppData/Local/Temp/msohtmlclip1/01/clip_image029.png)
+![img](clip_image029.png)
 
 #### Task 3: Configure an environment variable and the database connection string
 
  
 
-![img](file:///C:/Users/josev/AppData/Local/Temp/msohtmlclip1/01/clip_image031.png)
+![img](clip_image031.png)
 
 #### Task 4: Configure IIS logs 
 
  
 
-![img](file:///C:/Users/josev/AppData/Local/Temp/msohtmlclip1/01/clip_image033.png)
+![img](clip_image033.png)
 
-![img](file:///C:/Users/josev/AppData/Local/Temp/msohtmlclip1/01/clip_image035.png)
+![img](clip_image035.png)
 
  
 
@@ -161,7 +161,7 @@ blueyonder-flights-jvtc
 
  
 
-![img](file:///C:/Users/josev/AppData/Local/Temp/msohtmlclip1/01/clip_image039.png)
+![img](clip_image039.png)
 
  
 
@@ -209,13 +209,13 @@ blueyonder-flights-jvtc
 
 \### Exercise 1: Publishing the service to a Docker container
 
-![img](file:///C:/Users/josev/AppData/Local/Temp/msohtmlclip1/01/clip_image049.png)
+![img](clip_image049.png)
 
-![img](file:///C:/Users/josev/AppData/Local/Temp/msohtmlclip1/01/clip_image051.png)
+![img](clip_image051.png)
 
 Resultado:
 
-![img](file:///C:/Users/josev/AppData/Local/Temp/msohtmlclip1/01/clip_image053.png)
+![img](clip_image053.png)
 
 #### Task 3: Push the container to a public container registry
 
@@ -223,23 +223,23 @@ Resultado:
 
 Task 3: Push the container to a public container registry
 
-![img](file:///C:/Users/josev/AppData/Local/Temp/msohtmlclip1/01/clip_image055.png)
+![img](clip_image055.png)
 
  
 
-![img](file:///C:/Users/josev/AppData/Local/Temp/msohtmlclip1/01/clip_image057.png)
-
- 
-
- 
-
-![img](file:///C:/Users/josev/AppData/Local/Temp/msohtmlclip1/01/clip_image059.png)
+![img](clip_image057.png)
 
  
 
  
 
-![img](file:///C:/Users/josev/AppData/Local/Temp/msohtmlclip1/01/clip_image061.png)
+![img](clip_image059.png)
+
+ 
+
+ 
+
+![img](clip_image061.png)
 
  
 
@@ -257,11 +257,11 @@ Task 3: Push the container to a public container registry
 
  
 
-![img](file:///C:/Users/josev/AppData/Local/Temp/msohtmlclip1/01/clip_image063.png)
+![img](clip_image063.png)
 
  
 
-![img](file:///C:/Users/josev/AppData/Local/Temp/msohtmlclip1/01/clip_image065.png)
+![img](clip_image065.png)
 
  
 
@@ -269,15 +269,15 @@ Task 3: Push the container to a public container registry
 
  
 
-![img](file:///C:/Users/josev/AppData/Local/Temp/msohtmlclip1/01/clip_image067.png)
+![img](clip_image067.png)
 
  
 
-![img](file:///C:/Users/josev/AppData/Local/Temp/msohtmlclip1/01/clip_image069.png)
+![img](clip_image069.png)
 
  
 
-![img](file:///C:/Users/josev/AppData/Local/Temp/msohtmlclip1/01/clip_image071.png)
+![img](clip_image071.png)
 
 "ipAddress": {
 
@@ -287,7 +287,7 @@ Task 3: Push the container to a public container registry
 
  
 
-![img](file:///C:/Users/josev/AppData/Local/Temp/msohtmlclip1/01/clip_image072.png)
+![img](clip_image072.png)
 
    "ip": "20.75.216.169",
 
@@ -317,7 +317,7 @@ Task 3: Push the container to a public container registry
 
  
 
-![img](file:///C:/Users/josev/AppData/Local/Temp/msohtmlclip1/01/clip_image074.png)
+![img](clip_image074.png)
 
  
 
@@ -325,9 +325,9 @@ En Azure:
 
  
 
-![img](file:///C:/Users/josev/AppData/Local/Temp/msohtmlclip1/01/clip_image076.png)
+![img](clip_image076.png)
 
-![img](file:///C:/Users/josev/AppData/Local/Temp/msohtmlclip1/01/clip_image077.png)
+![img](clip_image077.png)
 
 
 
@@ -343,17 +343,17 @@ En Azure:
 
 Task 1: Create a new Function App project in Visual Studio
 
-![img](file:///C:/Users/josev/AppData/Local/Temp/msohtmlclip1/01/clip_image079.png)
+![img](clip_image079.png)
 
 
 
  
 
-![img](file:///C:/Users/josev/AppData/Local/Temp/msohtmlclip1/01/clip_image081.png)
+![img](clip_image081.png)
 
  
 
-![img](file:///C:/Users/josev/AppData/Local/Temp/msohtmlclip1/01/clip_image083.png)
+![img](clip_image083.png)
 
  
 
@@ -427,6 +427,7 @@ Publicando:
 
  
 
+ 
  
 
 PROBLEMAS
